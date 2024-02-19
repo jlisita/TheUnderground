@@ -1,0 +1,87 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body
+{
+    font-family: Roboto, sans-serif;
+    border: 2px solid white;
+}
+
+h1
+{
+    font-size: 43px;
+    padding-bottom: 20px;
+}
+
+p
+{
+    font-size: 13px;
+}
+
+#div1
+{
+    text-align: center;
+    line-height: 1.5em;
+    color: white;
+    background-image: url("../images/banner-1.jpg");
+    background-size: cover;
+    background-position: 50%;
+    padding-top: 100px;
+    height: 300px;
+}
+#div1 input
+{
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+#div2
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    height: 210px;
+    line-height: 1.5em;
+}
+#div2 p
+{
+    padding: 20px;
+    color: rgb(98, 98, 98);
+}
+
+#div2 input
+{
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+
+}
+
+#div3
+{
+    background-image: url("../images/banner-2.jpg");
+    background-size: cover;
+    background-position: 50%;
+    height: 430px;
+}
+footer
+{
+    text-align: center;
+    color: white;
+    background-color: rgb(50, 50, 50);
+    height: 40px;
+    padding-top: 30px;
+}
+
+
